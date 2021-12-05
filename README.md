@@ -1,6 +1,7 @@
 # monitorGunplaReleaseInfo.py
 
 
+```
 usage: monitorGunplaReleaseInfo.py [-h] [-f FILE] [-c [CATEGORY ...]] [-n] [-w] [-a AFTER] [-m]
 
 [Options] Detailed options -h or --help
@@ -15,3 +16,4 @@ options:
   -a AFTER, --after AFTER
                         filter by date. e.g. 20211215 for 2021/12/15
   -m, --moniter         monitor upcoming sales products
+  ```
