@@ -16,7 +16,21 @@ options:
   -a AFTER, --after AFTER
                         filter by date. e.g. 20211215 for 2021/12/15
   -m, --moniter         monitor upcoming sales products
-  ```
+```
+  
+  
+ Format of Wish List(csv file)
+ <productID>,<amount of purchase>
+
+Sample
+```
+5057525,2
+5062932,1
+5063094,3
+5063157,1
+5063191,1
+ 
+```
 
 
 Sample output
